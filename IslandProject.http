@@ -1,0 +1,6 @@
+@IslandProject_HostAddress = http://localhost:5276
+
+GET {{IslandProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
