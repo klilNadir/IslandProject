@@ -12,6 +12,11 @@
             throw new NotImplementedException();
         }
 
+        public double[] NextDoubles(double lowerBound, double upperBound)
+        {
+            throw new NotImplementedException();
+        }
+
         public int NextInt(int lowerBound, int upperBound)
         {
             throw new NotImplementedException();

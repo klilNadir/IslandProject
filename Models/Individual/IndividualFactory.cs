@@ -24,7 +24,7 @@ namespace IslandProject.Models.Individual
                 case FunctionType.INTEGER:
                     return new IntIndividual(grace, random);
                     break;
-                case FunctionType.FLOAT:
+                case FunctionType.DOUBLE:
                     return new DoubleIndividual(grace, random);
                     break;
                 case FunctionType.FRACTAL:

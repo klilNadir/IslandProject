@@ -4,7 +4,7 @@
     {
         BOOLEAN = 0,
         INTEGER =1,
-        FLOAT =2,
+        DOUBLE =2,
         FRACTAL =3,
     }
 }
